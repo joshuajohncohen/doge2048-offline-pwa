@@ -53,6 +53,6 @@ const appShellFiles = [
   '/style/fonts/ComicSansMS-Regular.eot',
   '/style/fonts/ComicSansMS-Regular.ttf',
   '/style/fonts/ComicSansMS-Regular.woff',
-  '/style/fonts/comicsans/'
+  '/favicon.png'
 ];
 const contentToCache = appShellFiles;
